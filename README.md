@@ -2,7 +2,7 @@
   <img src="./frontend/public/logo-no-sfondo.png" alt="Lumen Logo" width="200">
   <h1>Lumen</h1>
   <p>
-    <b>Insieme per un fututo luminoso 💚</b>
+    <b>Insieme per un futuro luminoso 💚</b>
   </p>
   <p>
     <!-- Badges -->
